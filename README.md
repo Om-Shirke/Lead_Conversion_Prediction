@@ -44,4 +44,5 @@ This project focuses on building a Leads Conversion Classification System for X 
 
 1. **Clone the repository:**
    ```bash
-   git clone <repo-link>
+   git clone <https://github.com/Om-Shirke/Lead_Conversion_Prediction.git>
+2. **Hi**
