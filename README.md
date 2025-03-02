@@ -50,6 +50,20 @@ This project focuses on building a Leads Conversion Classification System for X 
 - Implement advanced models like Random Forest, XGBoost for better accuracy.
 - Tune hyperparameters using GridSearchCV.
 - Incorporate real-time lead scoring based on live data.
+## 📂 Project Structure  
+
+## 📂 Project Structure  
+
+| File Name                               | Description                                      |
+|-----------------------------------------|------------------------------------------------|
+| `data.csv`                              | Previous Airbnb listings dataset               |
+| `data_dictionary.xlsx`                  | Column descriptions and data definitions       |
+| `Lead Scoring Case Study Summary.pdf`   | Complete procedure and conclusions of the study |
+| `Lead Scoring Case Study.ipynb`         | Complete study processes in Jupyter with Python |
+| `Lead Scoring Case Study Presentation.pdf` | Case study with visualizations and business insights |
+| `README.md`                             | Project documentation                          |
+
+
 ## 📢 Credits & References
 
 - **Project by:** Om Shirke
