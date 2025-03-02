@@ -40,3 +40,8 @@ This project focuses on building a Leads Conversion Classification System for X 
 - **Tags_Switched off:** Leads with this status are highly unlikely to convert.
 - **Tags_Ringing:** Leads that do not pick up calls are mostly non-convertible.
 
+## 🛠 How to Run
+
+1. **Clone the repository:**
+   ```bash
+   git clone <repo-link>
