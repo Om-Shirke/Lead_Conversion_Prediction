@@ -20,10 +20,23 @@ This project focuses on building a Leads Conversion Classification System for X 
 
 ## 🚀 Model Training & Evaluation
 
-- **Train-Test Split:** 80% training, 20% testing.
+- **Train-Test Split:** 70% training, 30% testing.
 - **Model Used:** Logistic Regression
 - **Evaluation Metrics:**
   - Accuracy Score
   - Precision, Recall, F1-score
   - Confusion Matrix
   - ROC-AUC Curve
+
+## ⚡ Key Findings & Insights
+
+### Factors that increase the probability of lead conversion:
+- **Tags_Closed by Horizzon:** Leads with this tag have the highest chance of converting.
+- **Tags_Lost to EINS:** Leads marked as lost to EINS have a very high probability of conversion.
+- **Tags_Will revert after reading the email:** Leads with this status tend to have a good chance of converting.
+- **Lead_Source_Welingak Website:** Leads sourced from this website show strong conversion potential.
+
+### Factors that indicate a lead will not convert:
+- **Tags_Switched off:** Leads with this status are highly unlikely to convert.
+- **Tags_Ringing:** Leads that do not pick up calls are mostly non-convertible.
+
