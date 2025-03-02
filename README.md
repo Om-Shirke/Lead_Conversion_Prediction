@@ -50,7 +50,6 @@ This project focuses on building a Leads Conversion Classification System for X 
 - Implement advanced models like Random Forest, XGBoost for better accuracy.
 - Tune hyperparameters using GridSearchCV.
 - Incorporate real-time lead scoring based on live data.
-## 📂 Project Structure  
 
 ## 📂 Project Structure  
 
