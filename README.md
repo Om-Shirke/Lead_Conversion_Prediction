@@ -41,8 +41,16 @@ This project focuses on building a Leads Conversion Classification System for X 
 - **Tags_Ringing:** Leads that do not pick up calls are mostly non-convertible.
 
 ## 🛠 How to Run
-
-1. **Clone the repository:**
+**Clone the repository:**
    ```bash
    git clone <https://github.com/Om-Shirke/Lead_Conversion_Prediction.git>
-2. **Hi**
+```
+## 📈 Future Improvements
+
+- Implement advanced models like Random Forest, XGBoost for better accuracy.
+- Tune hyperparameters using GridSearchCV.
+- Incorporate real-time lead scoring based on live data.
+## 📢 Credits & References
+
+- **Project by:** Om Shirke
+
