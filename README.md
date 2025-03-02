@@ -17,3 +17,13 @@ This project focuses on building a Leads Conversion Classification System for X 
 - **Data Cleaning & Preprocessing:** Handled missing values, outliers, and feature scaling.
 - **Feature Engineering:** Created new variables based on existing data.
 - **Visualization:** Used Matplotlib and Seaborn to explore trends in lead conversion.
+
+## 🚀 Model Training & Evaluation
+
+- **Train-Test Split:** 80% training, 20% testing.
+- **Model Used:** Logistic Regression
+- **Evaluation Metrics:**
+  - Accuracy Score
+  - Precision, Recall, F1-score
+  - Confusion Matrix
+  - ROC-AUC Curve
