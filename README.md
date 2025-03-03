@@ -11,7 +11,8 @@ This project focuses on building a Leads Conversion Classification System for X 
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Statsmodels  
 - **Dataset:** `Leads.csv` (attached)  
 - **Dataset Description:** `Leads Data Dictionary.xlsx` (attached)  
-- **Model Used:** Logistic Regression  
+- **Model Used:** Logistic Regression
+
 ## 🔍 Exploratory Data Analysis (EDA)
 
 - **Data Cleaning & Preprocessing:** Handled missing values, outliers, and feature scaling.
@@ -55,7 +56,7 @@ This project focuses on building a Leads Conversion Classification System for X 
 
 | File Name                               | Description                                      |
 |-----------------------------------------|------------------------------------------------|
-| `data.csv`                              | Previous Airbnb listings dataset               |
+| `data.csv`                              | Previous leads dataset               |
 | `data_dictionary.xlsx`                  | Column descriptions and data definitions       |
 | `Lead Scoring Case Study Summary.pdf`   | Complete procedure and conclusions of the study |
 | `Lead Scoring Case Study.ipynb`         | Complete study processes in Jupyter with Python |
